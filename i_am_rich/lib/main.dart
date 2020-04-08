@@ -7,7 +7,7 @@ void main() => runApp(
             title: Text("I'm rich"),
             backgroundColor: Colors.blueGrey.shade900,
           ),
-          backgroundColor: Colors.blueAccent,
+          backgroundColor: Colors.lightBlue,
           body: Center(
             child: Image(
               image: AssetImage('images/app_image.png'),
